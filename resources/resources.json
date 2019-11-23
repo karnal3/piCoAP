@@ -1,0 +1,6 @@
+{
+  "CoAp": {
+    "name": "CoAP Pi",
+    "description": "Proste Raspberry Pi symulujące urządzenia ograniczonych zasobów."
+  }
+}
